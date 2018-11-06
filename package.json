@@ -69,7 +69,8 @@
     "yargs-parser": "10.x"
   },
   "peerDependencies": {
-    "jest": ">=22 <24"
+    "jest": ">=22 <24",
+    "jest-config": "*"
   },
   "devDependencies": {
     "@commitlint/cli": "7.x",
